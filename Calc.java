@@ -9,9 +9,9 @@ public class calc
         Scanner in = new Scanner(System.in);
         double a, b, c = 0.0;
 
-        System.out.print("Write the first number \n");
+        System.out.print("Enter the first number \n");
         a = in.nextDouble();
-        System.out.print("And write second  \n");
+        System.out.print("And enter second  \n");
         b = in.nextDouble();
         System.out.print("Choose the operation  " +
               "\n1.Addition" +
@@ -19,7 +19,7 @@ public class calc
         		"\n3.Multiplication" +
         		"\n4.Division" +
         		"\n5.Power" +
-        		"\n#Please write the number of operation \n");
+        		"\n#Please enter the number of operation \n");
         double somethin = in.nextDouble();
         double addition = 1;
         double subtraction = 2;
