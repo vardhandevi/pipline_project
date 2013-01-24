@@ -1,6 +1,6 @@
 import java.util.*
 
-//Simple calculator by Dawid Guoh
+//Simple calculator
 
 public class calc
 {
